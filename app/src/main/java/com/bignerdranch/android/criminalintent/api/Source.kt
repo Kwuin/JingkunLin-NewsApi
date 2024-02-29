@@ -1,4 +1,4 @@
-package com.bignerdranch.android.photogallery.api
+package com.bignerdranch.android.criminalintent.api
 
 import com.squareup.moshi.JsonClass
 
